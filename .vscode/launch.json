@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "CountingOccurance",
+            "request": "launch",
+            "mainClass": "CountingOccurance",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "Febonachi",
+            "request": "launch",
+            "mainClass": "Febonachi",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Conditionals",
+            "request": "launch",
+            "mainClass": "Conditionals",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "LargestNumber",
+            "request": "launch",
+            "mainClass": "LargestNumber",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "TypeCheck",
+            "request": "launch",
+            "mainClass": "TypeCheck",
+            "projectName": "javaPractice_d1be0324"
+        }
+    ]
+}
