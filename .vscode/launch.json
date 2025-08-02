@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PythogrousTriplet",
+            "request": "launch",
+            "mainClass": "PythogrousTriplet",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "EligibleToVote",
+            "request": "launch",
+            "mainClass": "EligibleToVote",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddChecker",
+            "request": "launch",
+            "mainClass": "EvenOddChecker",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "MaxMin",
+            "request": "launch",
+            "mainClass": "MaxMin",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "MaxMin",
+            "request": "launch",
+            "mainClass": "Functions.MaxMin",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrong",
+            "request": "launch",
+            "mainClass": "Assignment.ArmStrong",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Assignment.Factorial",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
             "name": "Switch",
             "request": "launch",
             "mainClass": "Switch",
