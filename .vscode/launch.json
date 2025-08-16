@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindMin",
+            "request": "launch",
+            "mainClass": "FindMin",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRagnge",
+            "request": "launch",
+            "mainClass": "SearchInRagnge",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "StringSearch",
+            "request": "launch",
+            "mainClass": "StringSearch",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListPractice",
+            "request": "launch",
+            "mainClass": "ArrayListPractice",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimentionalArray",
+            "request": "launch",
+            "mainClass": "MultiDimentionalArray",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
             "name": "PythogrousTriplet",
             "request": "launch",
             "mainClass": "PythogrousTriplet",
