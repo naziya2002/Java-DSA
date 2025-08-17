@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InfinteArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.InfinteArray",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "Cieling",
+            "request": "launch",
+            "mainClass": "BinarySearch.Cieling",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "indexAgnostic",
+            "request": "launch",
+            "mainClass": "BinarySearch.indexAgnostic",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "BinarySearch.index",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
             "name": "FindMin",
             "request": "launch",
             "mainClass": "FindMin",
