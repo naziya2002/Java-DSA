@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RotationCount",
+            "request": "launch",
+            "mainClass": "BinarySearch.RotationCount",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
             "name": "InfinteArray",
             "request": "launch",
             "mainClass": "BinarySearch.InfinteArray",
