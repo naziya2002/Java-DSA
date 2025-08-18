@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rowcolMatrix",
+            "request": "launch",
+            "mainClass": "BinarySearch.rowcolMatrix",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
+            "name": "SearchingIn2DArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.SearchingIn2DArray",
+            "projectName": "javaPractice_d1be0324"
+        },
+        {
+            "type": "java",
             "name": "RotationCount",
             "request": "launch",
             "mainClass": "BinarySearch.RotationCount",
